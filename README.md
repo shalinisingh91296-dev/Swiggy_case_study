@@ -6,7 +6,7 @@ A full RCA + Solutions + Metrics Breakdown
 #   Problem Statement  
  Swiggy has observed a 30% drop in food orders specifically in Bangalore, one of its largest and most profitable markets.  
 
-This is a critical business red flag indicating:  
+This is a critical business red flag indicating: 
       * Lower revenue 
       * Loss of market share  
       * Shift in customer behavior  
