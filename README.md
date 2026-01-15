@@ -9,9 +9,7 @@ A full RCA + Solutions + Metrics Breakdown
 This is a critical business red flag indicating: 
 
       * Lower revenue 
-      
-      * Loss of market share  
-      
+      * Loss of market share 
       * Shift in customer behavior  
       * Potential operational or product issues  
 
